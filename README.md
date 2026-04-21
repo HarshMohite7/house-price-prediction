@@ -30,4 +30,3 @@ This project predicts house prices using Linear Regression on tabular housing da
 ```bash
 pip install -r requirements.txt
 jupyter lab
-
